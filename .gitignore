@@ -1,0 +1,7 @@
+# Compiled program
+preprocessor
+*.o
+
+# Editor and OS files
+*.swp
+.DS_Store
